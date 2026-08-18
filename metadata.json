@@ -1,0 +1,6 @@
+{
+  "name": "ตารางเวรแก้ไฟฟ้าขัดข้อง กฟส.ฝาง",
+  "description": "ระบบแสดงรายชื่อผู้ปฏิบัติงานเข้าเวรแก้ไฟฟ้าขัดข้อง กฟส.ฝาง (PEA Fang Emergency Outage Roster)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
